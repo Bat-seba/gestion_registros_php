@@ -23,4 +23,4 @@ Este proyecto es un sistema dinámico para gestionar información en una base de
 3. **Base de Datos**: Importa el archivo SQL o crea la base de datos `gestion_registros_php`.
 4. **Ejecución**: Abre `index.php` en tu navegador.
 
-🚀 **¡Prueba el sistema y verifica los tests!**
+
