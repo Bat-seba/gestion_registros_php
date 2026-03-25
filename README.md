@@ -3,7 +3,6 @@
 Este proyecto es un sistema dinámico para gestionar información en una base de datos MySQL, siguiendo el ciclo **CRUD** (Crear, Leer, Actualizar, Eliminar).
 
 ## 📸 Capturas del Sistema
-Aquí es donde la magia ocurre. Para que se vean tus fotos, pon esto:
 
 ![Interfaz de Usuario](captura_web.png)
 *Descripción: Vista principal con la tabla de registros y formulario.*
