@@ -1,0 +1,21 @@
+{
+    "name": "bat-seba/gestion-registros-php",
+    "description": "Sistema CRUD dinámico con PHP y MySQL siguiendo estándares de calidad y pruebas unitarias.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BatSeba\\GestionRegistrosPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bat-seba",
+            "email": "batseba.info@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
